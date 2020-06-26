@@ -33,3 +33,9 @@ body {
     font-size: .8em;
 
 }
+
+.footer {
+    background-color: teal;
+    color: thistle;
+    text-align: center;
+}
