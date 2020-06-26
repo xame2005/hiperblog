@@ -45,3 +45,9 @@ body {
     background: white;
     padding: 1em;
 }
+    
+.footer {
+    background-color: teal;
+    color: thistle;
+    text-align: center;
+}
