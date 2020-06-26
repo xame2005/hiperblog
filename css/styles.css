@@ -8,12 +8,13 @@ body {
     padding: 0;
 }
 
-#container {
-    width: 70%;
+.container {
+    width: 90%;
     padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
-
+    background: white;
+    align-items: center;
 }
 
 #container h1 {
